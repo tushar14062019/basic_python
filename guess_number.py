@@ -25,7 +25,7 @@ import random
 
 random_number = random.randint(1, 20)  # Generate a random number between 1 and 20
 count = 0
-maxguesses = 5
+maxgusses = 5
 
 
 print("I have selected a number between 1 and 20. Can you guess it?")
